@@ -1,0 +1,3 @@
+[submodule "img/bmp2coe"]
+	path = img/bmp2coe
+	url = git@github.com:davidxuang/bmp2coe.git
